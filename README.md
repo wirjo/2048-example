@@ -2,6 +2,10 @@
 
 A fully functional 2048 game built with React, TypeScript, and Vite.
 
+## Live Demo
+
+🎮 **[Play the game here](https://2048-example-k2mt.vercel.app/)**
+
 ## Features
 
 - **Classic 2048 Gameplay**: Slide tiles to combine matching numbers and reach 2048
