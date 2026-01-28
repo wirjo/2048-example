@@ -6,6 +6,8 @@ A fully functional 2048 game built with React, TypeScript, and Vite.
 
 🎮 **[Play the game here](https://2048-example-k2mt.vercel.app/)**
 
+📦 **[View source code on GitHub](https://github.com/wirjo/2048-example)**
+
 ## Features
 
 - **Classic 2048 Gameplay**: Slide tiles to combine matching numbers and reach 2048
